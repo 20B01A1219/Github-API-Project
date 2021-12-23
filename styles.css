@@ -1,0 +1,25 @@
+body 
+{
+    background-color: blue;
+}
+
+#usern{
+    margin-top: 100px;
+    margin-left: 410px;
+    width : 350px;
+    color : red;
+}
+
+#btn
+{
+    margin-left: 550px;
+    width : 80px;
+    border-radius: 10px;
+}
+
+#btn:hover{
+  background-color : brown;
+  color : white;
+  
+}
+
